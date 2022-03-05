@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MergeSortVisualizer/static/css/main.9610d2ad.css",
+    "main.js": "/MergeSortVisualizer/static/js/main.827fbe09.js",
+    "index.html": "/MergeSortVisualizer/index.html",
+    "main.9610d2ad.css.map": "/MergeSortVisualizer/static/css/main.9610d2ad.css.map",
+    "main.827fbe09.js.map": "/MergeSortVisualizer/static/js/main.827fbe09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9610d2ad.css",
+    "static/js/main.827fbe09.js"
+  ]
+}
