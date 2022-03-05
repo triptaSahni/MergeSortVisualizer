@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.content{
+  border: 1.5px solid black;
+  padding-top: 6px;
+  padding-bottom:6px;
+  padding-left: 13px;
+  padding-right: 13px;
+}
+.box{
+  margin-bottom:5px;
+  margin-top: 8px;
+}
+.myClass{
+  width:1.6px;
+  display: inline-block;
+  background-color:rgb(95, 197, 231);
+  margin: 0 1px;
+}
+.buttons{
+  margin-top: 5px;
+display: flex;
+gap: 20px;
+}
+#button1{
+   font-size: 17px;
+   font-weight: bold;
+   border-radius:0.5rem;
+   background-color: white;
+   cursor: pointer;
+}
+#button2{
+  font-size: 17px;
+  font-weight: bold;
+  border-radius:0.5rem;
+  background-color: white;
+  cursor: pointer;
+}
+#button1:hover{
+   background-color: black;
+   color: white;
+}
+#button2:hover{
+  background-color: black;
+  color: white;
+}
+.top{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
